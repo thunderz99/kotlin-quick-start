@@ -10,7 +10,7 @@
             "name": "Kotlin Attach",
             "projectRoot": "${workspaceFolder}",
             "hostName": "localhost",
-            "port": 5005.0,
+            "port": 5005,
             "timeout": 30000
         },
         {
